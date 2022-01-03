@@ -1,4 +1,4 @@
-# generic-sigma.js-viewer
+# Generic Sigma.js Viewer
 based on the examples of sigma.js - I own no copyright
 
 * Allow to load a sigma.js json file representing a graph.
